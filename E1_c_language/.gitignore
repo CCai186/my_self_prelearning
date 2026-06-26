@@ -1,7 +1,2 @@
-# Ignore everything except C/C++ source files
-*
-!*.c
-!*.cpp
-!*.h
-!*.hpp
-!.gitignore
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
